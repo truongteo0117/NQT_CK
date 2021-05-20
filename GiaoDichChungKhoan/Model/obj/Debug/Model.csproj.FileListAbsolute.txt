@@ -1,0 +1,5 @@
+E:\Project C#\GiaoDichChungKhoan\Model\bin\Debug\Model.dll
+E:\Project C#\GiaoDichChungKhoan\Model\bin\Debug\Model.pdb
+E:\Project C#\GiaoDichChungKhoan\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Project C#\GiaoDichChungKhoan\Model\obj\Debug\Model.dll
+E:\Project C#\GiaoDichChungKhoan\Model\obj\Debug\Model.pdb
